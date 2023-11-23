@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbmodem14401",
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoasisp",
+    "sketch": "Web-Bluetooth-and-HM-10-module-for-Arduino/bt_arduino/bt_arduino.ino"
+}
